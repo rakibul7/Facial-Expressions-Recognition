@@ -23,5 +23,5 @@ Download the [data.zip](https://drive.google.com/file/d/1kmzULCVD4f3marsNvsocyLB
 
 1. Unzip the 'data.zip' file in the same location
 2. Open terminal and enter the file path to the desired directory and paste the command given below
-3. ```First Part Video Link:- https://youtu.be/a573pDNNFEY
-4. ``` Second Part/Testing Part Link:- https://www.youtube.com/watch?v=XfTSfG47_q0&t=0s
+3. ```[First Part Video Link] (https://youtu.be/a573pDNNFEY)
+4. ```[Second Part/Testing Part Link] (https://www.youtube.com/watch?v=XfTSfG47_q0&t=0s)
