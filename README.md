@@ -6,7 +6,7 @@ This is a Python 3 based project to display facial expressions (happy, sad, ange
 The model is trained on the **FER-2013** dataset which was published on International Conference on Machine Learning (ICML). This dataset consists of 35887 grayscale, 48x48 sized face images with seven emotions - angry, disgusted, fearful, happy, neutral, sad and surprised.
 
 ## Dataset
-Due to the limitations of upload size in github, I have uploaded the zip file of the dataset 'data.zip' on a google drive.
+Due to the limitations of upload size in github, I have uploaded the zip file of the dataset 'face-expression-recognition-datase' on a google drive.
 Download the [data.zip](https://drive.google.com/file/d/1kmzULCVD4f3marsNvsocyLBVrzb_YvNo/view) file and unzip it in the directory.
 
 ## Dependencies
