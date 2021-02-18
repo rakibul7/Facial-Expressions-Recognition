@@ -7,7 +7,7 @@ The model is trained on the **FER-2013** dataset which was published on Internat
 
 ## Dataset
 Due to the limitations of upload size in github, I have uploaded the zip file of the dataset 'face-expression-recognition-datase' on a google drive.
-Download the [data.zip](https://drive.google.com/file/d/1kmzULCVD4f3marsNvsocyLBVrzb_YvNo/view) file and unzip it in the directory.
+Download the [face-expression-recognition-dataset.zip](https://drive.google.com/file/d/1kmzULCVD4f3marsNvsocyLBVrzb_YvNo/view) file and unzip it in the directory.
 
 ## Dependencies
 
